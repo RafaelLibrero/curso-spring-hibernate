@@ -1,8 +1,10 @@
 # Registro de Prompts - Trabajo Final‌‌‌​‌​‌‌​﻿‍‍​﻿​​​﻿‍‌​﻿‌‌​﻿‌​‌‍‌‌‌‍‌‍‌‍​﻿‌‍​‌‌‍​‌​﻿‌﻿‌‍‌​‌‍‌‌‌‍‌‍​﻿​‌‌‍​‌‌‍‌‌
 
-**Alumno:** [Tu Nombre Apellido]
-**Fecha:** [DD/MM/YYYY]
-**IA utilizada:** [ChatGPT / Claude / Copilot / Gemini / otra]
+**Alumno:** Rafael Librero
+
+**Fecha:** 19/03/2026
+
+**IA utilizada:** ChatGPT
 
 ---
 
@@ -115,3 +117,13 @@ y tecnologias usadas.
 | Prompt que NO funciono | [cual y que hicieron despues] |
 | Tiempo total estimado | [horas] |
 | Que harias diferente | [1-2 oraciones] |
+
+
+Prompts
+
+- que diferencia entre response entity o devolver Driver, mi objeto, en el controller?
+- y xq en los get list no se usan
+  que es @controlleradvice?
+  vale pero este archivo donde va
+  y ahora donde se usan esos metodos
+  claro pero segun intellij no se usan, me sale warning
