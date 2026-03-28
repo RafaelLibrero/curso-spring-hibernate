@@ -26,7 +26,7 @@ Permite gestionar pilotos, equipos, carreras y resultados de cada Gran Premio, a
 | POST | `/api/drivers` | Crear un nuevo piloto |
 | PUT | `/api/drivers/{id}` | Actualizar piloto existente |
 | DELETE | `/api/drivers/{id}` | Eliminar piloto |
-| GET | `/api/drivers/search?name=xyz` | Buscar pilotos por nombre |
+| GET | `/api/drivers/search` | Buscar pilotos por nombre |
 | GET | `/api/drivers/ranking` | Listar pilotos ordenados por puntos descendentes |
 
 ### Teams
